@@ -24,7 +24,7 @@ virtualenv -p python3 <my-virtualenv-name>
 # Activate the virtualenv
 source <my-virtualenv-name>/bin/activate
 
-# Install Jupyter, Pandas and Plotly
+# Install Jupyter, Pandas, Plotly and Matplotlib
 pip3 install jupyter pandas plotly matplotlib
 
 # Start the notebook server (from withing the folder with the virtualenv folder)
